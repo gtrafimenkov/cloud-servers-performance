@@ -17,7 +17,7 @@ provider.
 
 ```
 |---------------+---------------------------------------------------------+-------+------------+-----------+------------------------+------------+------------|
-| Server Type   | CPU                                                     | Cores | Kernel     | 10GB bzip | OS, Linux Kernel       |  Test Date | Approx     |
+| Server Type   | CPU (as reported by cat /proc/cpuinfo)                  | Cores | Kernel     | 10GB bzip | OS, Linux Kernel       |  Test Date | Approx     |
 |               |                                                         |       | build time | time      | Version                |            | cost/month |
 |---------------+---------------------------------------------------------+-------+------------+-----------+------------------------+------------+------------|
 |               |                                                         |       |            |           |                        |            |            |
